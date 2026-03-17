@@ -7,21 +7,21 @@
       "items": [
         {
           "title": "時報ポモドーロタイマー",
-          "thumb": "https://picsum.photos/400/300?1",
+          "thumb": "img/web_chime-pomodoro.png",
           "desc": "毎時00分と30分に自動で作業を開始するポモドーロタイマーです<br>作業時間の長さは自由に設定できます",
           "url": "https://katom826.github.io/Pomodoro-chime/",
           "price": "無料"
         },
         {
           "title": "筋トレアシストタイマー",
-          "thumb": "https://picsum.photos/400/300?2",
+          "thumb": "img/web_workout-timer.png",
           "desc": "ゲームのようなUIで筋トレをアシストします",
           "url": "https://katom826.github.io/Workout-timer",
           "price": "無料"
         },
         {
           "title": "壁紙メモ作成ツール",
-          "thumb": "https://picsum.photos/400/300?3",
+          "thumb": "img/web_memo.png",
           "desc": "スマホの壁紙にちょうど良いサイズの、メモ付きの画像を作成できます",
           "url": "https://katom826.github.io/Wallpaper-note/",
           "price": "無料"
@@ -31,76 +31,12 @@
     {
       "id": "mobile-app",
       "label": "モバイルアプリ",
-      "items": [
-        {
-          "title": "テスト",
-          "thumb": "https://picsum.photos/400/300?5",
-          "desc": "テストテストテストテスト",
-          "url": "https://example.com/mobile/fitness",
-          "price": "基本無料",
-          "platforms": [
-            "ios",
-            "android"
-          ]
-        },
-        {
-          "title": "テスト",
-          "thumb": "https://picsum.photos/400/300?6",
-          "desc": "テストテストテストテスト",
-          "url": "https://example.com/mobile/travel",
-          "price": "￥300/月",
-          "platforms": [
-            "ios"
-          ]
-        },
-        {
-          "title": "テスト",
-          "thumb": "https://picsum.photos/400/300?7",
-          "desc": "テストテストテストテスト",
-          "url": "https://example.com/mobile/finance",
-          "price": "無料",
-          "platforms": [
-            "android"
-          ]
-        }
-      ]
+      "items": []
     },
     {
       "id": "game",
       "label": "ゲーム",
-      "items": [
-        {
-          "title": "テスト",
-          "thumb": "https://picsum.photos/400/300?8",
-          "desc": "テストテストテストテスト",
-          "url": "https://example.com/game/star",
-          "price": "￥200",
-          "platforms": [
-            "ブラウザゲーム"
-          ]
-        },
-        {
-          "title": "テスト",
-          "thumb": "https://picsum.photos/400/300?9",
-          "desc": "テストテストテストテスト",
-          "url": "https://example.com/game/sky",
-          "price": "￥300/月",
-          "platforms": [
-            "iOS",
-            "Android"
-          ]
-        },
-        {
-          "title": "テスト",
-          "thumb": "https://picsum.photos/400/300?10",
-          "desc": "テストテストテストテスト",
-          "url": "https://example.com/game/detective",
-          "price": "無料",
-          "platforms": [
-            "PC"
-          ]
-        }
-      ]
+      "items": []
     }
   ]
 }
